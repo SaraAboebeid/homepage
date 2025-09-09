@@ -1,0 +1,227 @@
+site:
+  name: TechnoArt
+  navigation:
+    - label: Home
+      path: index.html
+    - label: Page1
+      path: page1.html
+    - label: Page2
+      path: page2.html
+    - label: Page3
+      path: page3.html
+    - label: Contact
+      path: contact.html
+    - label: About
+      path: about.html
+  defaults:
+    theme: dark
+    meta:
+      charset: UTF-8
+      viewport: width=device-width, initial-scale=1.0
+pages:
+  - id: home
+    file: index.html
+    head:
+      title: TechnoArt - Home
+      meta:
+        description: "TechnoArt blends technology and artistry through immersive, performant, and accessible web experiences."
+    hero: homepage
+    sections:
+      - heading: Innovation
+        body: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      - heading: Technology
+        body: |
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      - heading: Design
+        body: |
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
+      - heading: Future
+        body: |
+          At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+  - id: page1
+    file: page1.html
+    head:
+      title: TechnoArt - Page1
+      meta:
+        description: "Explore creativity and excellence on TechnoArt Page 1—where design strategies meet performance."
+    hero: Page One
+    sections:
+      - heading: Creativity
+        body: |
+          Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.
+      - heading: Excellence
+        body: |
+          Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+      - heading: Performance
+        body: |
+          Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
+      - heading: Quality
+        body: |
+          Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+  - id: page2
+    file: page2.html
+    head:
+      title: TechnoArt - Page2
+      meta:
+        description: "Vision, strategy, execution, and results—discover Page 2 of TechnoArt."
+    hero: Page Two
+    sections:
+      - heading: Vision
+        body: |
+          Phasellus at dui in ligula mollis ultricies. Integer placerat tristique nisl. Praesent augue. Fusce commodo aliquam arcu. Nam commodo suscipit quam. Quisque id odio. Praesent venenatis metus at tortor pulvinar varius.
+      - heading: Strategy
+        body: |
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+      - heading: Execution
+        body: |
+          Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.
+      - heading: Results
+        body: |
+          Sed arcu. Cras consequat. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor.
+  - id: page3
+    file: page3.html
+    head:
+      title: TechnoArt - Page3
+      meta:
+        description: "Research, development, testing, and launch stories on TechnoArt Page 3."
+    hero: Page Three
+    sections:
+      - heading: Research
+        body: |
+          Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.
+      - heading: Development
+        body: |
+          Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros.
+      - heading: Testing
+        body: |
+          Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus. Nullam libero mauris, consequat quis, varius et, dictum id, arcu. Mauris mollis tincidunt felis.
+      - heading: Launch
+        body: |
+          Aliquam feugiat tellus ut neque. Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit. Aliquam erat volutpat. Morbi imperdiet, mauris ac auctor dictum.
+  - id: contact
+    file: contact.html
+    head:
+      title: TechnoArt - Contact
+      meta:
+        description: "Contact TechnoArt—reach our team, support, and social channels."
+    hero: Contact
+    sections:
+      - heading: Get in Touch
+        body: |
+          We would love to hear from you. Whether you have a question about features, pricing, need a demo, or anything else, our team is ready to answer all your questions.
+      - heading: Office Location
+        body: |
+          Visit us at our headquarters located in the heart of the city. Our modern workspace reflects our commitment to innovation and creativity. We welcome collaborations and partnerships.
+      - heading: Support
+        body: |
+          Our dedicated support team is available 24/7 to assist you with any inquiries or technical issues. We pride ourselves on providing exceptional customer service and quick response times.
+      - heading: Connect
+        body: |
+          Follow us on social media for the latest updates, behind-the-scenes content, and industry insights. Join our growing community of innovators and creators from around the world.
+  - id: about
+    file: about.html
+    head:
+      title: TechnoArt - About
+      meta:
+        description: "About TechnoArt—our story, mission, team, and values blending technology and art."
+    hero: About Us
+    sections:
+      - heading: Our Story
+        body: |
+          Founded with a vision to bridge technology and artistry, TechnoArt represents the perfect fusion of innovation and creativity. We believe that the best solutions emerge when technical expertise meets artistic vision.
+      - heading: Our Mission
+        body: |
+          To create digital experiences that not only function flawlessly but also inspire and engage users on an emotional level. We strive to push the boundaries of what's possible in the digital realm.
+      - heading: Our Team
+        body: |
+          A diverse group of passionate professionals including developers, designers, strategists, and visionaries. Together, we bring decades of combined experience in technology and creative industries.
+      - heading: Our Values
+        body: |
+          Innovation, integrity, and excellence guide everything we do. We believe in continuous learning, sustainable practices, and creating solutions that make a positive impact on the world around us.
+background:
+  palette:
+    tealDeep: '#004452'
+    teal: '#00727E'
+    blue: '#0072B2'
+    sky: '#56B4E9'
+    green: '#009E73'
+    orange: '#E69F00'
+    vermilion: '#D55E00'
+    purple: '#CC79A7'
+    yellow: '#F0E442'
+    neutralLight: '#dedccb'
+    nearBlack: '#101010'
+  pages:
+    index.html:
+      background: '#004452'
+      backgroundLight: '#dedccb'
+      dot: '#009E73'
+      dot2: '#E69F00'
+      shape: ring
+      patternSeed: 0
+      cellSize: 10
+    page1.html:
+      background: '#1d000e'
+      backgroundLight: '#dedccb'
+      dot: '#CC79A7'
+      dot2: '#E69F00'
+      shape: diamond
+      patternSeed: 1
+      cellSize: 10
+    page2.html:
+      background: '#0d001d'
+      backgroundLight: '#dedccb'
+      dot: '#56B4E9'
+      dot2: '#009E73'
+      shape: square
+      patternSeed: 2
+      cellSize: 10
+    page3.html:
+      background: '#00130f'
+      backgroundLight: '#dedccb'
+      dot: '#009E73'
+      dot2: '#D55E00'
+      shape: cross
+      patternSeed: 3
+      cellSize: 10
+    contact.html:
+      background: '#101010'
+      backgroundLight: '#dedccb'
+      dot: '#E69F00'
+      dot2: '#0072B2'
+      shape: circle
+      patternSeed: 4
+      cellSize: 10
+    about.html:
+      background: '#001014'
+      backgroundLight: '#dedccb'
+      dot: '#56B4E9'
+      dot2: '#D55E00'
+      shape: ring
+      patternSeed: 5
+      cellSize: 10
+ui:
+  themeTokens:
+    dark:
+      bg: '#001d1d'
+      text: '#ffffff'
+      textMuted: '#cccccc'
+    light:
+      bg: '#dedccb'
+      text: '#0a0f14'
+      textMuted: '#5a6672'
+  animation:
+    reduceMotionClass: reduce-motion
+  settingsDefaults:
+    patternSeed: 0
+    cellSize: 4
+    toneLow: 0.4
+    toneHigh: 0.6
+    twoToneMode: 1
+    shapeType: 0
+    parallaxScale: 1.0
+    animSpeed: 1.0
+meta:
+  source: "Extracted static site content into YAML for potential templating/CMS usage"
+  generated: 2025-09-02

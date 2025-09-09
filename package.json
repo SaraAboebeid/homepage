@@ -1,0 +1,12 @@
+{
+  "name": "technoart-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site generated from content.yaml",
+  "scripts": {
+    "build": "node generate.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
