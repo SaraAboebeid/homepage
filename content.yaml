@@ -25,20 +25,20 @@ pages:
       title: TechnoArt - Home
       meta:
         description: "TechnoArt blends technology and artistry through immersive, performant, and accessible web experiences."
-    hero: homepage
+    hero: TECHNOART
     sections:
       - heading: Innovation
         body: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          We turn data into action. By transforming complex urban datasets into clear insights, we empower decision-makers to design smarter, more resilient, and inclusive cities. Our work sparks new ideas and solutions that balance equity, sustainability, and creativity.
       - heading: Technology
         body: |
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          We build digital tools and IoT solutions that make cities more intelligent. From real-time sensors and monitoring systems to AI-driven analytics and interactive visualizations, our technology delivers end-to-end insights—from data collection to implementation.
       - heading: Design
         body: |
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
+          Great cities are people-centred. We collaborate with governments, businesses, and communities to shape strategies that blend social equity, environmental care, and economic growth. Our design approach ensures cities don’t just function—they thrive.
       - heading: Future
         body: |
-          At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+          Our ambition is to grow into a full urban intelligence platform and a global think tank on urban challenges. By combining innovation, design, and technology, we create cities that are resilient, adaptable, and ready for tomorrow.
   - id: page1
     file: page1.html
     head:
