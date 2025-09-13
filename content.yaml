@@ -1,5 +1,5 @@
 site:
-  name: TechnoArt
+  name: Nodal
   navigation:
     - label: Home
       path: index.html
