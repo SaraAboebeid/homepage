@@ -1,7 +1,7 @@
 site:
   name: Nodal
   navigation:
-    - label: Home
+    - label: Nodal
       path: index.html
     - label: Page1
       path: page1.html
@@ -22,10 +22,10 @@ pages:
   - id: home
     file: index.html
     head:
-      title: TechnoArt - Home
+      title: Nodal - Home
       meta:
         description: "TechnoArt blends technology and artistry through immersive, performant, and accessible web experiences."
-    hero: TECHNOART
+    hero: Nodal
     sections:
       - heading: Innovation
         body: |
